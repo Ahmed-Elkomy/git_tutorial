@@ -7,6 +7,7 @@ void main() {
 //new branch development
 //First Update in the development
 //second branch check out development_without_snak is created
+//second branch - seconf commit then pull
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
